@@ -1,7 +1,6 @@
 pandas>=2.2.0
 numpy
 matplotlib
-seaborn
 scikit-learn
 statsmodels
 jupyter
