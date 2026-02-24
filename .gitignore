@@ -1,0 +1,20 @@
+# Ambiente Virtual
+taxi_demand_env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Dados
+data/taxi.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sistema
+.DS_Store
+Thumbs.db
